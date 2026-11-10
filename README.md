@@ -94,4 +94,3 @@ Screenshots of the application will be added here.
 
 ---
 
-*Developed as part of a DBMS academic assignment.*
