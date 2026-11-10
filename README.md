@@ -111,3 +111,8 @@ Screenshots of the application will be added here.
 ### 5. Cupping Scores Table
 ![Cupping Scores](Cupping_Scores.png)
 
+## 🗂️ Entity Relationship Diagram
+
+The following diagram illustrates the relational database structure and relationships between the three tables.
+
+![Coffee Roastery ER Diagram](Coffee_Roastery_ER_Diagram.png)
