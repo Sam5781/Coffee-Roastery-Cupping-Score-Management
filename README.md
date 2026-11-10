@@ -94,3 +94,20 @@ Screenshots of the application will be added here.
 
 ---
 
+## 📸 Application Screenshots
+
+### 1. Main Dashboard
+![Dashboard](Dashboard.png)
+
+### 2. Combined Database View
+![Combined View](Combined_View.png)
+
+### 3. Roasteries Table
+![Roasteries](Roasteries.png)
+
+### 4. Roast Batches Table
+![Roast Batches](Roast_Batches.png)
+
+### 5. Cupping Scores Table
+![Cupping Scores](Cupping_Scores.png)
+
